@@ -1,4 +1,4 @@
-# 4-Sides Of Each Socccer Game [Project]
+# [Project]4-Sides Of Each Soccer Game
 How to read the scenario of the match and decipher its mystery
 
 ## This project was created by
